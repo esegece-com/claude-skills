@@ -1,8 +1,8 @@
-# TsgcWSPClient_AMQP - Example
+# TsgcTCPClient - Example
 
-Full source of `uClientAMQP.pas` from the **02.WebSocket_Protocols/10.AMQP_Client** demo, which uses `TsgcWSPClient_AMQP`.
+Full source of `uClientAMQP.pas` from the **02.WebSocket_Protocols/10.AMQP_Client** demo, which uses `TsgcTCPClient`.
 
-API reference: [TsgcWSPClient_AMQP](../reference/api/TsgcWSPClient_AMQP.md)
+API reference: [TsgcTCPClient](../reference/api/TsgcTCPClient.md)
 Source demo: `02.WebSocket_Protocols/10.AMQP_Client` (file `uClientAMQP.pas`)
 
 ```pascal

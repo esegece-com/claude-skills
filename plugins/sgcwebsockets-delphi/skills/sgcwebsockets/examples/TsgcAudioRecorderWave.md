@@ -1,8 +1,8 @@
-# TsgcWSAPI_OpenAI - Example
+# TsgcAudioRecorderWave - Example
 
-Full source of `fOpenAI_RealTime.pas` from the **15.AI/01.QuickStart/06.RealTime** demo, which uses `TsgcWSAPI_OpenAI`.
+Full source of `fOpenAI_RealTime.pas` from the **15.AI/01.QuickStart/06.RealTime** demo, which uses `TsgcAudioRecorderWave`.
 
-API reference: [TsgcWSAPI_OpenAI](../reference/api/TsgcWSAPI_OpenAI.md)
+API reference: [TsgcAudioRecorderWave](../reference/api/TsgcAudioRecorderWave.md)
 Source demo: `15.AI/01.QuickStart/06.RealTime` (file `fOpenAI_RealTime.pas`)
 
 ```pascal
