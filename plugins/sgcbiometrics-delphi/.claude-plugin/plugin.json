@@ -1,0 +1,20 @@
+{
+  "name": "sgcbiometrics-delphi",
+  "displayName": "sgcBiometrics (Delphi)",
+  "description": "Use when writing Delphi code that uses the eSeGeCe sgcBiometrics library (biometric authentication: Windows Hello, fingerprint, and facial recognition). Provides the public component API (properties, methods, events), the unit/uses mapping, and full demo source examples, for developers who do not have the library source.",
+  "version": "2.4.0",
+  "author": {
+    "name": "eSeGeCe",
+    "email": "info@esegece.com"
+  },
+  "homepage": "https://www.esegece.com/products/sgcbiometrics/",
+  "repository": "https://github.com/esegece-com/claude-skills",
+  "license": "Proprietary",
+  "keywords": [
+    "delphi",
+    "cbuilder",
+    "sgcbiometrics",
+    "components",
+    "esegece"
+  ]
+}
