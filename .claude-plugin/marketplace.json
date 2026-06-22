@@ -29,6 +29,12 @@
       "source": "./plugins/sgcbiometrics-delphi",
       "description": "sgcBiometrics for Delphi and C++Builder: public API, uses mapping, examples.",
       "version": "2.4.0"
+    },
+    {
+      "name": "sgcindy-delphi",
+      "source": "./plugins/sgcindy-delphi",
+      "description": "sgcIndy for Delphi and C++Builder: public API, uses mapping, examples.",
+      "version": "2026.6.0"
     }
   ]
 }

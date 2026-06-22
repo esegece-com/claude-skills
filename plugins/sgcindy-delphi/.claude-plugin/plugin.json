@@ -1,0 +1,20 @@
+{
+  "name": "sgcindy-delphi",
+  "displayName": "sgcIndy (Delphi)",
+  "description": "Use when writing Delphi or FPC code that uses the eSeGeCe sgcIndy library (a maintained fork of Indy: TCP/UDP clients and servers, and protocol components for HTTP, SMTP, POP3, IMAP, FTP, SSH/SFTP, Telnet, NNTP, DNS and more). Provides the public component API (properties, methods, events), the unit/uses mapping, and demo source examples, for developers who do not have the library source.",
+  "version": "2026.6.0",
+  "author": {
+    "name": "eSeGeCe",
+    "email": "info@esegece.com"
+  },
+  "homepage": "https://www.esegece.com/products/sgcindy/",
+  "repository": "https://github.com/esegece-com/claude-skills",
+  "license": "Proprietary",
+  "keywords": [
+    "delphi",
+    "cbuilder",
+    "sgcindy",
+    "components",
+    "esegece"
+  ]
+}
