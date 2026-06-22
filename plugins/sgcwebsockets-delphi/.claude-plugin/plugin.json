@@ -2,7 +2,7 @@
   "name": "sgcwebsockets-delphi",
   "displayName": "sgcWebSockets (Delphi)",
   "description": "Public API reference, uses-clause mapping, edition availability, and usage examples for the eSeGeCe sgcWebSockets library for Delphi and C++Builder. For developers who do not have the library source.",
-  "version": "0.0",
+  "version": "2026.7.0",
   "author": {
     "name": "eSeGeCe",
     "email": "info@esegece.com"
