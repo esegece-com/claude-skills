@@ -176,7 +176,7 @@ Add the listed `unit` to your `uses` clause to use a component.
 
 | Component | unit | edition |
 | --- | --- | --- |
-| [TsgcWSAPIServer_OpenAPI](api/TsgcWSAPIServer_OpenAPI.md) | sgcWebSocket_Server_API_OpenAPI | Standard |
+| [TsgcWSAPIServer_OpenAPI](api/TsgcWSAPIServer_OpenAPI.md) | sgcWebSocket_Server_API_OpenAPI | Enterprise |
 
 ## sgcP2P_Reg
 

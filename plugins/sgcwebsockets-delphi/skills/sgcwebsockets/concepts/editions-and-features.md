@@ -64,7 +64,6 @@ Available in Standard and higher.
 | [TsgcWSPClient_Kafka](../reference/api/TsgcWSPClient_Kafka.md) | sgcWebSocket_Protocols |
 | [TsgcTCPClient](../reference/api/TsgcTCPClient.md) | sgcTCP_Client_WS |
 | [TsgcUDPCLient](../reference/api/TsgcUDPCLient.md) | sgcP2P |
-| [TsgcWSAPIServer_OpenAPI](../reference/api/TsgcWSAPIServer_OpenAPI.md) | sgcWebSocket_Server_API_OpenAPI |
 | [TsgcSTUNClient](../reference/api/TsgcSTUNClient.md) | sgcP2P |
 | [TsgcWSAPI_Pusher](../reference/api/TsgcWSAPI_Pusher.md) | sgcWebSocket_APIs |
 | [TsgcWSAPI_SignalR](../reference/api/TsgcWSAPI_SignalR.md) | sgcWebSocket_APIs |
@@ -122,6 +121,7 @@ Available in Enterprise and higher.
 | [TsgcWSAPIServer_WebAuthn](../reference/api/TsgcWSAPIServer_WebAuthn.md) | sgcWebSocket_Server_APIs |
 | [TsgcHTTP2Client](../reference/api/TsgcHTTP2Client.md) | sgcHTTP |
 | [TsgcGRPCClient](../reference/api/TsgcGRPCClient.md) | sgcHTTP |
+| [TsgcWSAPIServer_OpenAPI](../reference/api/TsgcWSAPIServer_OpenAPI.md) | sgcWebSocket_Server_API_OpenAPI |
 | [TsgcTURNClient](../reference/api/TsgcTURNClient.md) | sgcP2P |
 | [TsgcTURNServer](../reference/api/TsgcTURNServer.md) | sgcP2P |
 | [TsgcICEClient](../reference/api/TsgcICEClient.md) | sgcP2P |
