@@ -1,0 +1,23 @@
+{
+  "name": "sgcwebsockets-delphi",
+  "displayName": "sgcWebSockets (Delphi)",
+  "description": "Public API reference, uses-clause mapping, edition availability, and usage examples for the eSeGeCe sgcWebSockets library for Delphi and C++Builder. For developers who do not have the library source.",
+  "version": "2026.7.0",
+  "author": {
+    "name": "eSeGeCe",
+    "email": "info@esegece.com"
+  },
+  "homepage": "https://www.esegece.com/products/sgcwebsockets/",
+  "repository": "https://github.com/esegece-com/claude-skills",
+  "license": "Proprietary",
+  "keywords": [
+    "delphi",
+    "cbuilder",
+    "websocket",
+    "http2",
+    "mqtt",
+    "ai",
+    "components",
+    "esegece"
+  ]
+}

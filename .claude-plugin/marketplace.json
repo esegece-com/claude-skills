@@ -1,0 +1,16 @@
+{
+  "name": "esegece",
+  "owner": {
+    "name": "eSeGeCe",
+    "email": "info@esegece.com"
+  },
+  "description": "eSeGeCe component libraries for Claude Code.",
+  "plugins": [
+    {
+      "name": "sgcwebsockets-delphi",
+      "source": "./plugins/sgcwebsockets-delphi",
+      "description": "sgcWebSockets for Delphi and C++Builder: public API, uses mapping, editions, examples.",
+      "version": "2026.7.0"
+    }
+  ]
+}
