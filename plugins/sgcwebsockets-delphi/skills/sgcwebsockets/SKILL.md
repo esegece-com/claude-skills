@@ -16,6 +16,7 @@ sgcWebSockets is the eSeGeCe networking and communication component suite for De
 - **Examples**: `examples/index.md` is the full demo catalog; `examples/<Component>.md` is a focused, real usage snippet for the most-used components.
 - **Concepts**: `concepts/overview.md` (getting started + uses-clause rule) and `concepts/editions-and-features.md` (which components your edition includes).
 - **Bundled resources**: `concepts/resources.md` lists the browser-side assets (JavaScript, HTML, CSS) the server components serve or embed, so a browser client works without an external CDN.
+- **Version history**: `reference/history.md` lists what changed in each sgcWebSockets release.
 
 ## Editions
 
