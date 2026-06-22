@@ -1,7 +1,7 @@
 # TsgcWebSocketClient_WinHTTP
 
 unit: sgcWebSocket
-Edition: requires SGC_WINHTTP
+Edition: Standard
 
 Add `sgcWebSocket` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

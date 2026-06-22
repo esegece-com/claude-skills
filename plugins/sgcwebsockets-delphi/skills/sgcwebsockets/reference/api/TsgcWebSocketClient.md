@@ -1,6 +1,7 @@
 # TsgcWebSocketClient
 
 unit: sgcWebSocket
+Edition: Standard
 
 Add `sgcWebSocket` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

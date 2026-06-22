@@ -1,6 +1,7 @@
 # TsgcHTMLComponent_Stepper
 
 unit: sgcHTML_Component_Stepper
+Edition: All-Access
 
 Add `sgcHTML_Component_Stepper` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

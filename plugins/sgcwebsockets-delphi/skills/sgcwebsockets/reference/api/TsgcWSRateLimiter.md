@@ -1,7 +1,7 @@
 # TsgcWSRateLimiter
 
 unit: sgcWebSocket_Server_RateLimiter
-Edition: requires SGC_RATELIMITER
+Edition: Professional
 
 Add `sgcWebSocket_Server_RateLimiter` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

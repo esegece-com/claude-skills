@@ -1,6 +1,7 @@
 # TsgcHTMLComponent_Gantt
 
 unit: sgcHTML_Component_Gantt
+Edition: All-Access
 
 Add `sgcHTML_Component_Gantt` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

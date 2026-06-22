@@ -1,6 +1,7 @@
 # TsgcHTMLComponent_Notification
 
 unit: sgcHTML_Component_Notification
+Edition: All-Access
 
 Add `sgcHTML_Component_Notification` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

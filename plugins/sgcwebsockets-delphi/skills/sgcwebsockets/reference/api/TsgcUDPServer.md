@@ -1,7 +1,7 @@
 # TsgcUDPServer
 
 unit: sgcP2P
-Edition: Professional and higher
+Edition: Professional
 
 Add `sgcP2P` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

@@ -1,6 +1,7 @@
 # TsgcHTMLPageBuilder
 
 unit: sgcHTML_Component
+Edition: All-Access
 
 Add `sgcHTML_Component` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

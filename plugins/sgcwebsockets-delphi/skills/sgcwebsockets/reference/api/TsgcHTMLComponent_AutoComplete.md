@@ -1,6 +1,7 @@
 # TsgcHTMLComponent_AutoComplete
 
 unit: sgcHTML_Component_AutoComplete
+Edition: All-Access
 
 Add `sgcHTML_Component_AutoComplete` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

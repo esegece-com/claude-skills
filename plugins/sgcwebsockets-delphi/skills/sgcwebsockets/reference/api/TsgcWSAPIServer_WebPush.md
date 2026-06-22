@@ -1,7 +1,7 @@
 # TsgcWSAPIServer_WebPush
 
 unit: sgcWebSocket_Server_APIs
-Edition: requires SGC_WEBPUSH
+Edition: Enterprise
 
 Add `sgcWebSocket_Server_APIs` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

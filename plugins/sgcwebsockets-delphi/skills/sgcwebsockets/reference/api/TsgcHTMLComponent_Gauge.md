@@ -1,6 +1,7 @@
 # TsgcHTMLComponent_Gauge
 
 unit: sgcHTML_Component_Gauge
+Edition: All-Access
 
 Add `sgcHTML_Component_Gauge` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

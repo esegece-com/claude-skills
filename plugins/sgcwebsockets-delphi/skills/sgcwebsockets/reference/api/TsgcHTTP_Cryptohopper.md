@@ -1,7 +1,7 @@
 # TsgcHTTP_Cryptohopper
 
 unit: sgcLibs
-Edition: Professional and higher
+Edition: Professional
 
 Add `sgcLibs` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

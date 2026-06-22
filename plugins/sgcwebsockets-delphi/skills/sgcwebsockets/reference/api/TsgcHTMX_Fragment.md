@@ -1,7 +1,7 @@
 # TsgcHTMX_Fragment
 
 unit: sgcHTMX_Fragment
-Edition: requires SGC_HTMX
+Edition: All-Access
 
 Add `sgcHTMX_Fragment` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

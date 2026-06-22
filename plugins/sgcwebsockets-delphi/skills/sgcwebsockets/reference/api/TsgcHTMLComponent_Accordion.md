@@ -1,6 +1,7 @@
 # TsgcHTMLComponent_Accordion
 
 unit: sgcHTML_Component_Accordion
+Edition: All-Access
 
 Add `sgcHTML_Component_Accordion` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

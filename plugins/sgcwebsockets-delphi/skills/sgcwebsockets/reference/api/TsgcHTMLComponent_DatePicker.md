@@ -1,6 +1,7 @@
 # TsgcHTMLComponent_DatePicker
 
 unit: sgcHTML_Component_DatePicker
+Edition: All-Access
 
 Add `sgcHTML_Component_DatePicker` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

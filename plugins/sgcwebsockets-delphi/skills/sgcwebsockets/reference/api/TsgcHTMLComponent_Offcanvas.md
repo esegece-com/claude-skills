@@ -1,6 +1,7 @@
 # TsgcHTMLComponent_Offcanvas
 
 unit: sgcHTML_Component_Offcanvas
+Edition: All-Access
 
 Add `sgcHTML_Component_Offcanvas` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

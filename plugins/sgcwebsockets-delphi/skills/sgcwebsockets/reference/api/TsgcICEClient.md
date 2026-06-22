@@ -1,7 +1,7 @@
 # TsgcICEClient
 
 unit: sgcP2P
-Edition: requires SGC_ICE
+Edition: Enterprise
 
 Add `sgcP2P` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

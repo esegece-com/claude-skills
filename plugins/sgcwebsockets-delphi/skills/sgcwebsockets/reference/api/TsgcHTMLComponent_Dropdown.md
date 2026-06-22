@@ -1,6 +1,7 @@
 # TsgcHTMLComponent_Dropdown
 
 unit: sgcHTML_Component_Dropdown
+Edition: All-Access
 
 Add `sgcHTML_Component_Dropdown` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

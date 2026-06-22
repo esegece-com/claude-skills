@@ -1,6 +1,7 @@
 # TsgcWSAPI_MEXC_Futures
 
 unit: sgcWebSocket_APIs
+Edition: Standard
 
 Add `sgcWebSocket_APIs` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

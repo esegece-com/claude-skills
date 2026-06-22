@@ -1,7 +1,7 @@
 # TsgcWSAPIServer_RTCMultiConnection
 
 unit: sgcWebSocket_Server_APIs
-Edition: Professional and higher
+Edition: Professional
 
 Add `sgcWebSocket_Server_APIs` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

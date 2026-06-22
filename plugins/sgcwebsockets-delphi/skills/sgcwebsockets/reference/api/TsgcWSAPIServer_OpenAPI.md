@@ -1,7 +1,7 @@
 # TsgcWSAPIServer_OpenAPI
 
 unit: sgcWebSocket_Server_API_OpenAPI
-Edition: requires SGC_HTTP_OPENAPI_SERVER
+Edition: Standard
 
 Add `sgcWebSocket_Server_API_OpenAPI` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

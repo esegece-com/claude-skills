@@ -1,7 +1,7 @@
 # TsgcWSAPI_OpenAI
 
 unit: sgcWebSocket_APIs
-Edition: requires SGC_AI
+Edition: Enterprise
 
 Add `sgcWebSocket_APIs` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

@@ -1,6 +1,7 @@
 # TsgcHTMLDashboardLayout
 
 unit: sgcHTML_Component_DashboardLayout
+Edition: All-Access
 
 Add `sgcHTML_Component_DashboardLayout` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

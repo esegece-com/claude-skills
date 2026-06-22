@@ -1,7 +1,7 @@
 # TsgcWSPServer_WAMP
 
 unit: sgcWebSocket_Protocols
-Edition: Professional and higher
+Edition: Professional
 
 Add `sgcWebSocket_Protocols` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

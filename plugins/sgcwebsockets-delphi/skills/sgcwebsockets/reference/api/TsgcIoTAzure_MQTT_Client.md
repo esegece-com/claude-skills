@@ -1,6 +1,7 @@
 # TsgcIoTAzure_MQTT_Client
 
 unit: sgcIoT
+Edition: Standard
 
 Add `sgcIoT` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

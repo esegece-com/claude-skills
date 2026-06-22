@@ -1,7 +1,7 @@
 # TsgcHTTP_OAuth2_Client
 
 unit: sgcHTTP
-Edition: requires SGC_OAUTH
+Edition: Standard
 
 Add `sgcHTTP` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

@@ -1,7 +1,7 @@
 # TsgcWebSocketServer_HTTPAPI
 
 unit: sgcWebSocket
-Edition: requires SGC_HTTPAPI
+Edition: Enterprise
 
 Add `sgcWebSocket` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

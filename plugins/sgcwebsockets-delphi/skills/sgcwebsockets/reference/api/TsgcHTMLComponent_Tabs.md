@@ -1,6 +1,7 @@
 # TsgcHTMLComponent_Tabs
 
 unit: sgcHTML_Component_Tabs
+Edition: All-Access
 
 Add `sgcHTML_Component_Tabs` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

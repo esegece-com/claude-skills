@@ -1,6 +1,7 @@
 # TsgcLib_RCON
 
 unit: sgcLibs
+Edition: Standard
 
 Add `sgcLibs` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

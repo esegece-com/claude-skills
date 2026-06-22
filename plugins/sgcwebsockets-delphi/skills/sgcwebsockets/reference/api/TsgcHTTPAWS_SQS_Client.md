@@ -1,7 +1,7 @@
 # TsgcHTTPAWS_SQS_Client
 
 unit: sgcHTTP
-Edition: requires SGC_AWS
+Edition: Standard
 
 Add `sgcHTTP` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

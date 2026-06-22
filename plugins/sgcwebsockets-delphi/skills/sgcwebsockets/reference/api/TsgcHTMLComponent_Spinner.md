@@ -1,6 +1,7 @@
 # TsgcHTMLComponent_Spinner
 
 unit: sgcHTML_Component_Spinner
+Edition: All-Access
 
 Add `sgcHTML_Component_Spinner` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

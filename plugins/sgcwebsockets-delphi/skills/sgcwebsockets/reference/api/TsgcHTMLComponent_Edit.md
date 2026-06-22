@@ -1,6 +1,7 @@
 # TsgcHTMLComponent_Edit
 
 unit: sgcHTML_Component_Edit
+Edition: All-Access
 
 Add `sgcHTML_Component_Edit` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

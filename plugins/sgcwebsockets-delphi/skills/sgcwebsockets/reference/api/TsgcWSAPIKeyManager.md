@@ -1,7 +1,7 @@
 # TsgcWSAPIKeyManager
 
 unit: sgcWebSocket_Server_APIKeyManager
-Edition: requires SGC_APIKEYMANAGER
+Edition: Professional
 
 Add `sgcWebSocket_Server_APIKeyManager` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

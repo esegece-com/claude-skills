@@ -1,6 +1,7 @@
 # TsgcHTMLComponent_ListGroup
 
 unit: sgcHTML_Component_ListGroup
+Edition: All-Access
 
 Add `sgcHTML_Component_ListGroup` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

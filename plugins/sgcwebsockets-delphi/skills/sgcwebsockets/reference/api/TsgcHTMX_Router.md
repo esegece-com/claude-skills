@@ -1,7 +1,7 @@
 # TsgcHTMX_Router
 
 unit: sgcHTMX_Router
-Edition: requires SGC_HTMX
+Edition: All-Access
 
 Add `sgcHTMX_Router` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

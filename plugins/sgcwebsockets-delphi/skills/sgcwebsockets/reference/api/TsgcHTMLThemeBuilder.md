@@ -1,6 +1,7 @@
 # TsgcHTMLThemeBuilder
 
 unit: sgcHTML_ThemeBuilder
+Edition: All-Access
 
 Add `sgcHTML_ThemeBuilder` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

@@ -1,6 +1,7 @@
 # TsgcHTMLComponent_Calendar
 
 unit: sgcHTML_Component_Calendar
+Edition: All-Access
 
 Add `sgcHTML_Component_Calendar` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

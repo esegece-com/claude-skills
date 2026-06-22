@@ -1,7 +1,7 @@
 # TsgcWebView2
 
 unit: sgcWebView2
-Edition: requires SGC_WEBVIEW2
+Edition: Standard
 
 Add `sgcWebView2` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

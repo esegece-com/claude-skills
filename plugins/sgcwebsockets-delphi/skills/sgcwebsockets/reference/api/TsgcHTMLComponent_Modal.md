@@ -1,6 +1,7 @@
 # TsgcHTMLComponent_Modal
 
 unit: sgcHTML_Component_Modal
+Edition: All-Access
 
 Add `sgcHTML_Component_Modal` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

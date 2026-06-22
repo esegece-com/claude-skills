@@ -1,6 +1,7 @@
 # TsgcHTMLComponent_Snackbar
 
 unit: sgcHTML_Component_Snackbar
+Edition: All-Access
 
 Add `sgcHTML_Component_Snackbar` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

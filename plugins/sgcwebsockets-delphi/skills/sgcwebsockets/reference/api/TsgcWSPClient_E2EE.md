@@ -1,7 +1,7 @@
 # TsgcWSPClient_E2EE
 
 unit: sgcWebSocket_Protocols
-Edition: requires SGC_E2EE
+Edition: Enterprise
 
 Add `sgcWebSocket_Protocols` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

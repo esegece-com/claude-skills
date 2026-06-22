@@ -1,7 +1,7 @@
 # TsgcHTTP2Client
 
 unit: sgcHTTP
-Edition: requires SGC_HTTP2
+Edition: Enterprise
 
 Add `sgcHTTP` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

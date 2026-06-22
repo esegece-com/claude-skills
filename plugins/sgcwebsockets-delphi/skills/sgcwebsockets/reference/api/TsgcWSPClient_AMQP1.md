@@ -1,7 +1,7 @@
 # TsgcWSPClient_AMQP1
 
 unit: sgcWebSocket_Protocols
-Edition: requires SGC_AMQP1
+Edition: Standard
 
 Add `sgcWebSocket_Protocols` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

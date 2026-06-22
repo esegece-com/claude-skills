@@ -1,6 +1,7 @@
 # TsgcHTMLComponent_Login
 
 unit: sgcHTML_Component_Login
+Edition: All-Access
 
 Add `sgcHTML_Component_Login` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

@@ -1,7 +1,7 @@
 # TsgcWSAPIServer_MCP
 
 unit: sgcAI
-Edition: requires SGC_AI_MCP
+Edition: Enterprise
 
 Add `sgcAI` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

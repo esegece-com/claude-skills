@@ -1,6 +1,7 @@
 # TsgcHTMLComponent_Sidebar
 
 unit: sgcHTML_Component_Sidebar
+Edition: All-Access
 
 Add `sgcHTML_Component_Sidebar` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

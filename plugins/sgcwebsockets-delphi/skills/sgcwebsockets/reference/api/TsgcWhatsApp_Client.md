@@ -1,7 +1,7 @@
 # TsgcWhatsApp_Client
 
 unit: sgcLibs
-Edition: requires SGC_WHATSAPP
+Edition: Professional
 
 Add `sgcLibs` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

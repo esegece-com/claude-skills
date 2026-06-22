@@ -1,6 +1,7 @@
 # TsgcHTMLComponent_Video
 
 unit: sgcHTML_Component_Video
+Edition: All-Access
 
 Add `sgcHTML_Component_Video` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

@@ -1,6 +1,7 @@
 # TsgcHTMLComponent_TreeView
 
 unit: sgcHTML_Component_TreeView
+Edition: All-Access
 
 Add `sgcHTML_Component_TreeView` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

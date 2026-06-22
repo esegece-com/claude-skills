@@ -1,6 +1,7 @@
 # TsgcHTMLComponent_Panel
 
 unit: sgcHTML_Component_Panel
+Edition: All-Access
 
 Add `sgcHTML_Component_Panel` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

@@ -1,7 +1,7 @@
 # TsgcWebPush_Client
 
 unit: sgcHTTP
-Edition: requires SGC_WEBPUSH
+Edition: Enterprise
 
 Add `sgcHTTP` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

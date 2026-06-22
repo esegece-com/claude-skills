@@ -1,6 +1,7 @@
 # TsgcTCPClient
 
 unit: sgcTCP_Client_WS
+Edition: Standard
 
 Add `sgcTCP_Client_WS` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

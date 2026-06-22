@@ -1,7 +1,7 @@
 # TsgcTDLib_Telegram
 
 unit: sgcLibs
-Edition: requires SGC_TELEGRAM
+Edition: Standard
 
 Add `sgcLibs` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

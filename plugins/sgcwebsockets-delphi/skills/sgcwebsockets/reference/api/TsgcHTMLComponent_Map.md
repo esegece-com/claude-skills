@@ -1,6 +1,7 @@
 # TsgcHTMLComponent_Map
 
 unit: sgcHTML_Component_Map
+Edition: All-Access
 
 Add `sgcHTML_Component_Map` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

@@ -1,7 +1,7 @@
 # TsgcWSAPIServer_WebAuthn
 
 unit: sgcWebSocket_Server_APIs
-Edition: requires SGC_WEBAUTHN
+Edition: Enterprise
 
 Add `sgcWebSocket_Server_APIs` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

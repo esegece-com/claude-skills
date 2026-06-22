@@ -1,7 +1,7 @@
 # TsgcHTMX_Engine_Server
 
 unit: sgcHTMX_Engine_Server
-Edition: requires SGC_HTMX
+Edition: All-Access
 
 Add `sgcHTMX_Engine_Server` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

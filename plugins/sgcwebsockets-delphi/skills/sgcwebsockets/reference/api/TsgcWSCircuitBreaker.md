@@ -1,7 +1,7 @@
 # TsgcWSCircuitBreaker
 
 unit: sgcWebSocket_CircuitBreaker
-Edition: requires SGC_CIRCUITBREAKER
+Edition: Professional
 
 Add `sgcWebSocket_CircuitBreaker` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 

@@ -1,6 +1,7 @@
 # TsgcHTMLComponent_Breadcrumb
 
 unit: sgcHTML_Component_Breadcrumb
+Edition: All-Access
 
 Add `sgcHTML_Component_Breadcrumb` to your `uses` clause. Property and event types that link below are documented under `reference/types/`.
 
