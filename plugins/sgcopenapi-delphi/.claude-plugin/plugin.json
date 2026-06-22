@@ -1,0 +1,20 @@
+{
+  "name": "sgcopenapi-delphi",
+  "displayName": "sgcOpenAPI (Delphi)",
+  "description": "Use when writing Delphi or C++Builder code that uses the eSeGeCe sgcOpenAPI library (OpenAPI 3.0 parser and code generator, plus an OpenAPI server component for code-first and spec-first REST APIs). Provides the public component and class API (properties, methods, events), the unit/uses mapping, and usage examples, for developers who do not have the library source.",
+  "version": "2026.6.0",
+  "author": {
+    "name": "eSeGeCe",
+    "email": "info@esegece.com"
+  },
+  "homepage": "https://www.esegece.com/products/sgcopenapi/",
+  "repository": "https://github.com/esegece-com/claude-skills",
+  "license": "Proprietary",
+  "keywords": [
+    "delphi",
+    "cbuilder",
+    "sgcopenapi",
+    "components",
+    "esegece"
+  ]
+}

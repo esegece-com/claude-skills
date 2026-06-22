@@ -17,6 +17,12 @@
       "source": "./plugins/sgcsign-delphi",
       "description": "sgcSign for Delphi and C++Builder: public API, uses mapping, examples.",
       "version": "2026.6.0"
+    },
+    {
+      "name": "sgcopenapi-delphi",
+      "source": "./plugins/sgcopenapi-delphi",
+      "description": "sgcOpenAPI for Delphi and C++Builder: public API, uses mapping, examples.",
+      "version": "2026.6.0"
     }
   ]
 }
