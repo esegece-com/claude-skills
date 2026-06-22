@@ -1,0 +1,20 @@
+{
+  "name": "sgcsign-delphi",
+  "displayName": "sgcSign (Delphi)",
+  "description": "Use when writing Delphi or C++Builder code that uses the eSeGeCe sgcSign library (digital signatures: XAdES, PAdES, CAdES, Authenticode, ClickOnce, NuGet, VSIX; RFC 3161 timestamping; OCSP; and key providers for PFX, PEM, PKCS11/HSM, Azure Trusted Signing, AWS KMS, Google Cloud KMS, HashiCorp Vault, Certum). Provides the public component API (properties, methods, events), the unit/uses mapping, and full demo source examples, for developers who do not have the library source.",
+  "version": "2026.6.0",
+  "author": {
+    "name": "eSeGeCe",
+    "email": "info@esegece.com"
+  },
+  "homepage": "https://www.esegece.com/products/sgcsign/",
+  "repository": "https://github.com/esegece-com/claude-skills",
+  "license": "Proprietary",
+  "keywords": [
+    "delphi",
+    "cbuilder",
+    "sgcsign",
+    "components",
+    "esegece"
+  ]
+}

@@ -11,6 +11,12 @@
       "source": "./plugins/sgcwebsockets-delphi",
       "description": "sgcWebSockets for Delphi and C++Builder: public API, uses mapping, editions, examples.",
       "version": "2026.7.0"
+    },
+    {
+      "name": "sgcsign-delphi",
+      "source": "./plugins/sgcsign-delphi",
+      "description": "sgcSign for Delphi and C++Builder: public API, uses mapping, examples.",
+      "version": "2026.6.0"
     }
   ]
 }
